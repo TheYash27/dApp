@@ -3,8 +3,7 @@
 	<head></head>
 	<body>
 		<h1>MoodApp</h1>
-		<h2>This is Yash's 1st dApp!</h2>
-		<p>Here we're gonna set up some mood</p>
+		<h2>..coz decentralizing sharing your feelings wud make you feel better..</h2>
 		<label for="mood">Input</label>
 		<input type="text" id="mood">
 		<div>
